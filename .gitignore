@@ -1,7 +1,8 @@
 venv/
 data/frames/
-*.jpg
-*.mp4
-*.webp
+data/*.mp4
+data/*.webp
+outputs/
+yolov8n.pt
 __pycache__/
 *.pyc
