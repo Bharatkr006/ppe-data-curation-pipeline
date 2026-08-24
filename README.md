@@ -5,6 +5,10 @@ automatically triages model detections by confidence and filters redundant
 video frames, so human reviewers only see the ~35% of frames that actually 
 need attention instead of all of them.
 
+## Dashboard
+![Dashboard overview](docs/dashboard.png)
+![Flagged frame preview](docs/frame_preview.png)
+
 ## Problem
 CV pipelines producing detections at scale (e.g. video surveillance) generate 
 far more output than a human can manually review. Naively reviewing every 
