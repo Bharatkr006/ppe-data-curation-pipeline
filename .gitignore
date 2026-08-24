@@ -1,0 +1,7 @@
+venv/
+data/frames/
+*.jpg
+*.mp4
+*.webp
+__pycache__/
+*.pyc
